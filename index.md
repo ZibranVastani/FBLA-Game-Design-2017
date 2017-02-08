@@ -3,4 +3,4 @@
 By Zibran Vastani and Mark Cheng
 
 ### Play the Game
-<a> https://zibby2314.itch.io/retropolis-arcade<a>
+<link> https://zibby2314.itch.io/retropolis-arcade</link>
